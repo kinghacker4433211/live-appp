@@ -1,6 +1,6 @@
 const axios = require("axios")
-const urls = ["https://hyper-branched-college.glitch.me"]
-const urls = ["https://kinghac.glitch.me"]
+const urls = ["رابط بورجيكتك"]
+const urls = ["هنا رابط بورجيكت ثاني لو تبا تحط"]
 
 setInterval(function() {
             urls.forEach(url => {
