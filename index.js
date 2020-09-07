@@ -1,6 +1,5 @@
 const axios = require("axios")
-const urls = ["رابط بورجيكتك"]
-const urls = ["هنا رابط بورجيكت ثاني لو تبا تحط"]
+const urls = ["https://pebble-free-quark.glitch.me/"]
 
 setInterval(function() {
             urls.forEach(url => {
